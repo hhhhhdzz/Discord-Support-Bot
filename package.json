@@ -1,7 +1,7 @@
 {
   "name": "support-bot",
   "version": "1.0.0",
-  "description": "A Discord Support Bot , Made by Wick Studio | https://discord.gg/wicks",
+  "description": "A Discord Support Bot , Made by ji Studio | ji",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
